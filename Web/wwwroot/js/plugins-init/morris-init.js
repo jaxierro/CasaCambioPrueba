@@ -22,30 +22,6 @@ $(function () {
             },
             {
                 y: '2011 Q4',
-                item// Dashboard 1 Morris-chart
-$(function () {
-    "use strict";
-   
-
-    // LINE CHART
-    let line = new Morris.Line({
-        element: 'morris-line-chart',
-        resize: true,
-        data: [
-            {
-                y: '2011 Q1',
-                item1: 2666
-            },
-            {
-                y: '2011 Q2',
-                item1: 2778
-            },
-            {
-                y: '2011 Q3',
-                item1: 4912
-            },
-            {
-                y: '2011 Q4',
                 item1: 3767
             },
             {

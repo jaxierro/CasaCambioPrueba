@@ -1,4 +1,3 @@
-8ca22c3bb669f38b1b4695c7cba4ff33532e8337
 C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.API\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.API\bin\Debug\net5.0\appsettings.json
 C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.API\bin\Debug\net5.0\TEKUS.API.exe

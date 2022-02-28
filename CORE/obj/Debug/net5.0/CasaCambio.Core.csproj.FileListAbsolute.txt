@@ -1,4 +1,4 @@
-C:\Users\Javier\source\repos\CasaCambioTesC:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\net5.0\CasaCambio.Core.deps.json
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\net5.0\CasaCambio.Core.deps.json
 C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\net5.0\CasaCambio.Core.runtimeconfig.json
 C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\net5.0\CasaCambio.Core.runtimeconfig.dev.json
 C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\net5.0\CasaCambio.Core.dll

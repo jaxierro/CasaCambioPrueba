@@ -24,32 +24,6 @@ define( [
 
 var
 
-	// Swapdefine( [
-	"./core",
-	"./var/pnum",
-	"./core/access",
-	"./core/camelCase",
-	"./var/document",
-	"./var/rcssNum",
-	"./css/var/rnumnonpx",
-	"./css/var/cssExpand",
-	"./css/var/getStyles",
-	"./css/var/swap",
-	"./css/curCSS",
-	"./css/adjustCSS",
-	"./css/addGetHookIf",
-	"./css/support",
-
-	"./core/init",
-	"./core/ready",
-	"./selector" // contains
-], function( jQuery, pnum, access, camelCase, document, rcssNum, rnumnonpx, cssExpand,
-	getStyles, swap, curCSS, adjustCSS, addGetHookIf, support ) {
-
-"use strict";
-
-var
-
 	// Swappable if display is none or starts with table
 	// except "table", "table-cell", or "table-caption"
 	// See here for display values: https://developer.mozilla.org/en-US/docs/CSS/display

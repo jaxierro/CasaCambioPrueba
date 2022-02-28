@@ -58,66 +58,6 @@ namespace CasaCambio.Helper
 
          public ManagerApi(string baseUrl, string namemethod = "")
          {
-         using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Newtonsoft.Json.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Net.Http.Headers;
-
-namespace CasaCambio.Helper
-{
-
-    public enum WebServiceErrorCode
-        {
-            TokenNotCreated = 1,
-            TokenInvalid = 2,
-            InvalidEmailPassword = 3,
-            NotAuthorizedForThisPanel = 4,
-            UserNotExist = 5,
-            TokenNotRemoved = 6,
-            LoginUserIsRequered = 7,
-            InvalidCorporateSelection = 8,
-            EmailAlreadyExist = 9,
-            UserNoSaved = 10,
-            UserNoUpdated = 11,
-            Ok = 12,
-            ErrorGeneral = 13
-        }
-
-        public class WebServiceResult
-        {
-            [JsonProperty("error_code")]
-            public string ErrorCode { get; set; }
-            [JsonProperty("error_message")]
-            public string ErrorMessage { get; set; }
-            [JsonProperty("response")]
-            public string Response { get; set; }
-            [JsonProperty("data")]
-            public string Data { get; set; }
-        }
-
-        public class ManagerApi
-        {
-
-            //private IRestResponse _response;
-            //private readonly RestClient _restClient;
-            //private readonly RestRequest _request;
-            public string UrlBase { get; set; }
-
-             public string RequestResource { get; set; }
-            public WebServiceErrorCode ServiceErrorCode { get; set; }
-            public string WebServiceMessage { get; set; }
-            public HttpStatusCode OK { get; private set; }
-
-            public Dictionary<string, string> RequestParameters;
-
-
-         public ManagerApi(string baseUrl, string namemethod = "")
-         {
             UrlBase         = baseUrl;
             RequestResource = namemethod;
 

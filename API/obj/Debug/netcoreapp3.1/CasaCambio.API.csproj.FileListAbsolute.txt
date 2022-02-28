@@ -1,4 +1,3 @@
-7bd0d4c3f424299bc43d3dd743bf035a7450d701
 C:\Users\Javier\source\repos\CasaCambioTest\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Javier\source\repos\CasaCambioTest\API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Javier\source\repos\CasaCambioTest\API\bin\Debug\netcoreapp3.1\CasaCambio.API.exe

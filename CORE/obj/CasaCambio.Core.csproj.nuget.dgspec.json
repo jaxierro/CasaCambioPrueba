@@ -10,18 +10,6 @@
         "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\CasaDeCambioTest\\CasaCambioPrueba\\CORE\\CasaCambio.Core.csproj",
         "projectName": "CasaCambio.Core",
         "projectPath": "C:\\Users\\Javier\\source\\repos\\CasaDeCambioTest\\CasaCambioPrueba\\CORE\\CasaCambio.Core.csproj",
-        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",{
-  "format": 1,
-  "restore": {
-    "C:\\Users\\Javier\\source\\repos\\CasaDeCambioTest\\CasaCambioPrueba\\CORE\\CasaCambio.Core.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Javier\\source\\repos\\CasaDeCambioTest\\CasaCambioPrueba\\CORE\\CasaCambio.Core.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\source\\repos\\CasaDeCambioTest\\CasaCambioPrueba\\CORE\\CasaCambio.Core.csproj",
-        "projectName": "CasaCambio.Core",
-        "projectPath": "C:\\Users\\Javier\\source\\repos\\CasaDeCambioTest\\CasaCambioPrueba\\CORE\\CasaCambio.Core.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Javier\\source\\repos\\CasaDeCambioTest\\CasaCambioPrueba\\CORE\\obj\\",
         "projectStyle": "PackageReference",

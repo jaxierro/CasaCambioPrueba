@@ -28,36 +28,6 @@ function adoptValue( value, resolve, reject, noValue ) {
 			method.call( value, resolve, reject );
 
 		// Other non-thenables
-		} else {define( [
-	"./core",
-	"./var/isFunction",
-	"./var/slice",
-	"./callbacks"
-], function( jQuery, isFunction, slice ) {
-
-"use strict";
-
-function Identity( v ) {
-	return v;
-}
-function Thrower( ex ) {
-	throw ex;
-}
-
-function adoptValue( value, resolve, reject, noValue ) {
-	var method;
-
-	try {
-
-		// Check for promise aspect first to privilege synchronous behavior
-		if ( value && isFunction( ( method = value.promise ) ) ) {
-			method.call( value ).done( resolve ).fail( reject );
-
-		// Other thenables
-		} else if ( value && isFunction( ( method = value.then ) ) ) {
-			method.call( value, resolve, reject );
-
-		// Other non-thenables
 		} else {
 
 			// Control `resolve` arguments by letting Array#slice cast boolean `noValue` to integer:

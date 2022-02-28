@@ -47,55 +47,6 @@ test('converted into dataAdapter.current', function (assert) {
     );
   });
 
-  assert.ok(called, 'initSelection should have been called'module('Options - Deprecated - initSelection');
-
-var $ = require('jquery');
-var Options = require('select2/options');
-
-test('converted into dataAdapter.current', function (assert) {
-  assert.expect(5);
-
-  var $test = $('<select></select>');
-  var called = false;
-
-  var options = new Options({
-    initSelection: function ($element, callback) {
-      called = true;
-
-      callback([{
-        id: '1',
-        text: '2'
-      }]);
-    }
-  }, $test);
-
-  assert.ok(!called, 'initSelection should not have been called');
-
-  var DataAdapter = options.get('dataAdapter');
-  var data = new DataAdapter($test, options);
-
-  data.current(function (data) {
-    assert.equal(
-      data.length,
-      1,
-      'There should have only been one object selected'
-    );
-
-    var item = data[0];
-
-    assert.equal(
-      item.id,
-      '1',
-      'The id should have been set by initSelection'
-    );
-
-    assert.equal(
-      item.text,
-      '2',
-      'The text should have been set by initSelection'
-    );
-  });
-
   assert.ok(called, 'initSelection should have been called');
 });
 

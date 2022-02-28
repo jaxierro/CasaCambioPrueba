@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("sourcedialog","km",{toolbar:"អក្សរ​កូដ",title:"អក្ស�CKEDITOR.plugins.setLang("sourcedialog","km",{toolbar:"អក្សរ​កូដ",title:"អក្សរ​កូដ"});
+CKEDITOR.plugins.setLang("sourcedialog","km",{toolbar:"អក្សរ​កូដ",title:"អក្សរ​កូដ"});

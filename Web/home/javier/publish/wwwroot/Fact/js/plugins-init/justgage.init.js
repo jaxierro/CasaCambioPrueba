@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function(e) {
-    var t, n, a, i, o, m, l, ddocument.addEventListener("DOMContentLoaded", function(e) {
     var t, n, a, i, o, m, l, d, t = new JustGage({
             id: "g1",
             value: getRandomInt(0, 100),

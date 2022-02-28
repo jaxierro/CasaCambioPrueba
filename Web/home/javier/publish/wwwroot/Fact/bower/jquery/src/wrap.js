@@ -3,11 +3,6 @@ define( [
 	"./var/isFunction",
 	"./core/init",
 	"./manipulation", // clone
-	"./traversing" //define( [
-	"./core",
-	"./var/isFunction",
-	"./core/init",
-	"./manipulation", // clone
 	"./traversing" // parent, contents
 ], function( jQuery, isFunction ) {
 

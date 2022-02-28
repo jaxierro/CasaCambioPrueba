@@ -4,12 +4,6 @@
     // $('#example').DataTable();
     
     var table = $('.dataTable').DataTable({
-        createdRow: functio(function($) {
-    "use strict"
-
-    // $('#example').DataTable();
-    
-    var table = $('.dataTable').DataTable({
         createdRow: function ( row, data, index ) {
            $(row).addClass('selected')
         } 

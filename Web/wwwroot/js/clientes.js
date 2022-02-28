@@ -7,15 +7,6 @@
         var Nombres     = $("#Nombres").val();
         var Apellidos = $("#Apellidos").val();
         
-     ﻿
- 
-    $("#btnConfirmar").click(function () {
-
-        var IdCliente   = $("#IdCliente").val();
-        var DocumentoID = $("#DocumentoID").val();
-        var Nombres     = $("#Nombres").val();
-        var Apellidos = $("#Apellidos").val();
-        
         if (IdCliente == 0) {
 
             $.ajax({

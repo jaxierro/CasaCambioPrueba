@@ -40,48 +40,6 @@
                 <div class="col-md-10">
                     <input asp-for="apellidos" id="Apellidos" name="Apellidos" class="form-control" type="text" />
                     <span asp-validation-for="apellidos" class="text-danger"></span>
-                </div﻿
-
-@model CasaCambio.Web.ModelView.ResultClientesView
-
-@{
-    Layout = null;
-
-}
-
-<div class="row">
-    <div class="col-md-12">
-        <form id="formagregar" asp-action="Edit" asp-controller="Clientes">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" id="IdCliente" name="IdCliente" asp-for="idCliente" value="@Model.idCliente">
-            
-            <div class="row">
-                <div class="col-md-2">
-                    <label asp-for="documentoID" class="control-label">Documento ID</label>
-                </div>
-                <div class="col-md-10">
-                    <input asp-for="documentoID" id="nombres" class="form-control" />
-                    <span asp-validation-for="documentoID" class="text-danger"></span>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-2">
-                    <label asp-for="nombres" class="control-label">Nombres</label>
-                </div>
-                <div class="col-md-10">
-                    <input asp-for="nombres" id="Nombres" name="Nombres" class="form-control" />
-                    <span asp-validation-for="nombres" class="text-danger"></span>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-2">
-                    <label asp-for="apellidos" class="control-label">Apellidos</label>
-                </div>
-                <div class="col-md-10">
-                    <input asp-for="apellidos" id="Apellidos" name="Apellidos" class="form-control" type="text" />
-                    <span asp-validation-for="apellidos" class="text-danger"></span>
                 </div>
             </div>
 

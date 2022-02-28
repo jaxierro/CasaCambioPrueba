@@ -12,20 +12,6 @@ function getDefaultDisplay( elem ) {
 	var temp,
 		doc = elem.ownerDocument,
 		nodeName = elem.nodeName,
-		display = defaultDisplayMap[ noddefine( [
-	"../core",
-	"../data/var/dataPriv",
-	"../css/var/isHiddenWithinTree"
-], function( jQuery, dataPriv, isHiddenWithinTree ) {
-
-"use strict";
-
-var defaultDisplayMap = {};
-
-function getDefaultDisplay( elem ) {
-	var temp,
-		doc = elem.ownerDocument,
-		nodeName = elem.nodeName,
 		display = defaultDisplayMap[ nodeName ];
 
 	if ( display ) {

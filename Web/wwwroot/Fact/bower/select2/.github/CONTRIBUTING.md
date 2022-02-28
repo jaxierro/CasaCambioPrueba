@@ -1,9 +1,3 @@
-[*]
-indent_style = space
-end_of_line = lf
-
-[*.js]
-indent_size = 2
 # Guidelines for Getting Help with Select2
 
 **Before** you open a new issue, you must **read these guidelines.**  If it is evident from your issue that you failed to research your question properly, **your issue may be closed** without being answered.

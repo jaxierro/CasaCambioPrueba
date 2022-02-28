@@ -2,10 +2,6 @@
  Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
  For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
-(function(){function g(a){return CKEDITOR.tools.capitalize(a,!0)}function n(a,c){function b(a){return function(b,d){var c=b.widgets.focused,e=CKEDITOR.TRISTATE_DISABLED;c&&"easyimage"===c.name&&(e=a&&a.call(this,c,b,d)?CKEDITOR.TRISTATE_ON:C/*
- Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
-*/
 (function(){function g(a){return CKEDITOR.tools.capitalize(a,!0)}function n(a,c){function b(a){return function(b,d){var c=b.widgets.focused,e=CKEDITOR.TRISTATE_DISABLED;c&&"easyimage"===c.name&&(e=a&&a.call(this,c,b,d)?CKEDITOR.TRISTATE_ON:CKEDITOR.TRISTATE_OFF);this.setState(e)}}function e(a,c,d,f){d.type="widget";d.widget="easyimage";d.group=d.group||"easyimage";d.element="figure";c=new CKEDITOR.style(d);a.filter.allow(c);c=new CKEDITOR.styleCommand(c);c.contextSensitive=!0;c.refresh=b(function(a,
 b,c){return this.style.checkActive(c,b)});a.addCommand(f,c);c=a.getCommand(f);c.enable=function(){};c.refresh(a,a.elementPath());return c}a.addCommand("easyimageAlt",new CKEDITOR.dialogCommand("easyimageAlt",{startDisabled:!0,contextSensitive:!0,refresh:b()}));(function(b){function c(a,b){var d=a.match(/^easyimage(.+)$/);if(d){var e=(d[1][0]||"").toLowerCase()+d[1].substr(1);if(d[1]in b)return d[1];if(e in b)return e}return null}a.on("afterCommandExec",function(d){c(d.data.name,b)&&(a.forceNextSelectionCheck(),
 a.selectionChange(!0))});a.on("beforeCommandExec",function(d){c(d.data.name,b)&&d.data.command.style.checkActive(d.editor.elementPath(),a)&&(d.cancel(),a.focus())});for(var d in b)e(a,d,b[d],"easyimage"+g(d))})(c)}function p(a){var c=a.config.easyimage_toolbar;a.plugins.contextmenu&&(c.split&&(c=c.split(",")),a.addMenuGroup("easyimage"),CKEDITOR.tools.array.forEach(c,function(b){b=a.ui.items[b];a.addMenuItem(b.name,{label:b.label,command:b.command,group:"easyimage"})}))}function q(a){var c=a.sender.editor,

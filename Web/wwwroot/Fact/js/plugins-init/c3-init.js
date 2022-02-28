@@ -32,40 +32,6 @@ $(document).ready(function () {
             data: {
                 columns: [
                     ['data1', 30, 20, 50, 40, 60, 50],
-          $(document).ready(function () {
-
-    $(function () {
-        var chart = c3.generate({
-            bindto: '#c3-chart',
-            data: {
-                columns: [
-                    ['data1', 100, 200, 150, 300, 200],
-                    ['data2', 400, 500, 250, 700, 300],
-                ],
-                colors: {
-                    data1: '#34C73B',
-                    data2: '#00A2FF'
-                    //data3: '#0000ff'
-                },
-                axes: {
-                    data2: 'y2' // ADD
-                }
-            },
-            axis: {
-                y2: {
-                    show: true // ADD
-                }
-            }
-        });
-
-    });
-
-    $(function () {
-        var chart = c3.generate({
-            bindto: '#c3-combination',
-            data: {
-                columns: [
-                    ['data1', 30, 20, 50, 40, 60, 50],
                     ['data2', 200, 130, 90, 240, 130, 220],
                     ['data3', 300, 200, 160, 400, 250, 250]
                 ],

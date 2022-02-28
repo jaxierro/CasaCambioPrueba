@@ -1,6 +1,4 @@
-jQuery(function($){
-	$('#table').footable();
-});(function($) {
+(function($) {
     'use strict';
 
     $(document).ready(function() {

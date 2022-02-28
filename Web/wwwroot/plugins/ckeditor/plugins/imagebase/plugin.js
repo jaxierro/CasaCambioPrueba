@@ -2,10 +2,6 @@
  Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
  For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
-(function(){function p(c){var a=c.widgets,b=c.focusManager.currentActive;if(c.focusMan/*
- Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
-*/
 (function(){function p(c){var a=c.widgets,b=c.focusManager.currentActive;if(c.focusManager.hasFocus){if(a.focused)return a.focused;if(b instanceof CKEDITOR.plugins.widget.nestedEditable)return a.getByElement(b)}}function l(c,a){return c.features&&-1!==CKEDITOR.tools.array.indexOf(c.features,a)}function t(c,a){return CKEDITOR.tools.array.reduce(CKEDITOR.tools.objectKeys(c),function(b,d){var f=c[d];l(f,a)&&b.push(f);return b},[])}function u(c,a){a=CKEDITOR.tools.object.merge({pathName:c.lang.imagebase.pathName,
 defaults:{imageClass:c.config.easyimage_class||"",alt:"",src:"",caption:""},template:'\x3cfigure class\x3d"{imageClass}"\x3e\x3cimg alt\x3d"{alt}" src\x3d"{src}" /\x3e\x3cfigcaption\x3e{caption}\x3c/figcaption\x3e\x3c/figure\x3e',allowedContent:{img:{attributes:"!src,alt,width,height"},figure:!0,figcaption:!0},requiredContent:"figure; img[!src]",features:[],editables:{caption:{selector:"figcaption",pathName:c.lang.imagebase.pathNameCaption,allowedContent:"br em strong sub sup u s; a[!href,target]"}},
 parts:{image:"img",caption:"figcaption"},upcasts:{figure:function(b){if(1===b.find("img",!0).length)return b}}},a);a.upcast=CKEDITOR.tools.objectKeys(a.upcasts).join(",");return a}function m(c){this.wrapper=CKEDITOR.dom.element.createFromHtml(c||'\x3cdiv class\x3d"cke_loader"\x3e\x3c/div\x3e')}function n(){m.call(this,'\x3cdiv class\x3d"cke_loader"\x3e\x3cdiv class\x3d"cke_bar" styles\x3d"transition: width '+q/1E3+'s"\x3e\x3c/div\x3e\x3c/div\x3e');this.bar=this.wrapper.getFirst()}var r=!1,v={caption:function(){function c(b){b.parts.caption.data("cke-caption-placeholder",

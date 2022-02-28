@@ -2,10 +2,6 @@
     "use strict"
 
     // Clock pickers
-    var input = $('#single-input').clo(function($) {
-    "use strict"
-
-    // Clock pickers
     var input = $('#single-input').clockpicker({
         placement: 'bottom',
         align: 'left',

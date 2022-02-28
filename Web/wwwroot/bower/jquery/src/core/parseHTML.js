@@ -6,14 +6,6 @@ define( [
 
 	// This is the only module that needs core/support
 	"./support"
-], function( jQdefine( [
-	"../core",
-	"../var/document",
-	"./var/rsingleTag",
-	"../manipulation/buildFragment",
-
-	// This is the only module that needs core/support
-	"./support"
 ], function( jQuery, document, rsingleTag, buildFragment, support ) {
 
 "use strict";

@@ -1,4 +1,3 @@
-a12ff1ea9d54686aa2b3a438276f16749ec0f2ff
 C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\TEKUS.CORE.deps.json
 C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\TEKUS.CORE.dll
 C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\ref\TEKUS.CORE.dll

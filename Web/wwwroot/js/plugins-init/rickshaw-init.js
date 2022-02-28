@@ -19,27 +19,6 @@ $(document).ready(function() {
             }
             var graph = new Rickshaw.Graph({
                 element: document.querySelector(container),
-   
-$(document).ready(function() {
-
-    // Realtime Rickshaw Chart
-    if ($('#rickshaw-realtime').length != 0) {
-
-        (function() {
-
-            var container = '#rickshaw-realtime';
-
-            var seriesData = [
-                [],
-                [],
-                []
-            ];
-            var random = new Rickshaw.Fixtures.RandomData(50);
-            for (var i = 0; i < 50; i++) {
-                random.addData(seriesData);
-            }
-            var graph = new Rickshaw.Graph({
-                element: document.querySelector(container),
                 height: 338,
                 renderer: 'area',
                 padding: {

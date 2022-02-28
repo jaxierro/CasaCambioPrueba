@@ -22,30 +22,6 @@ var Typeahead = function (element, options) {
     self.options = xtend({}, defaults, options);
     self.matcher = self.options.matcher || self.matcher
     self.sorter = self.options.sorter || self.sorter
-    self.highlighter = self.options.highlighter || self.highlight// vendor
-var xtend = require('xtend');
-var dom = require('dom');
-
-var defaults = {
-    source: [],
-    items: 8,
-    menu: '<ul class="typeahead hidden"></ul>',
-    item: '<li><a href="#"></a></li>',
-    minLength: 1,
-    autoselect: true
-}
-
-var Typeahead = function (element, options) {
-    if (!(this instanceof Typeahead)) {
-        return new Typeahead(element, options);
-    }
-
-    var self = this;
-
-    self.element = dom(element);
-    self.options = xtend({}, defaults, options);
-    self.matcher = self.options.matcher || self.matcher
-    self.sorter = self.options.sorter || self.sorter
     self.highlighter = self.options.highlighter || self.highlighter
     self.updater = self.options.updater || self.updater
     self.menu = dom(self.options.menu);

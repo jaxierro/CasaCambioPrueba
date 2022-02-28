@@ -35,43 +35,6 @@
   }
 
   .btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
-    border-radius:.rtl {
-  text-align: right;
-  direction: rtl;
-
-  .nav {
-    padding-right: 0;
-  }
-
-  .navbar-nav .nav-item {
-    float: right;
-  }
-
-  .navbar-nav .nav-item + .nav-item {
-    margin-right: 1rem;
-    margin-left: inherit;
-  }
-
-  th {
-    text-align: right;
-  }
-
-  .alert-dismissible {
-    padding-right: 1.25rem;
-    padding-left: 4rem;
-  }
-
-  .dropdown-menu {
-    right: 0;
-    text-align: right;
-  }
-
-  .checkbox label {
-    padding-right: 1.25rem;
-    padding-left: inherit;
-  }
-
-  .btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
     border-radius: 0 $border-radius $border-radius 0;
   }
 

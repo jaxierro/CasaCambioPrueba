@@ -7,15 +7,6 @@ $(function() {
 
     
     $("span.pie").peity("pie", {
-        w$(function() {
-    "use strict";
-    $(".bar-line").peity("bar", {
-        width: "100",
-        height: "100"
-    });
-
-    
-    $("span.pie").peity("pie", {
         width: "100",
         height: "100"
     });

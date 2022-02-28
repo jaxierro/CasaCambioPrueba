@@ -13,21 +13,6 @@ using Newtonsoft.Json;
 namespace CasaCambio.API.Controllers
 {
     [Route("api/[controller]")]
-    [ApiC﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using CasaCambio.Core.Interface;
-using CasaCambio.Core.Models;
-using CasaCambio.Core.Utils;
-using Newtonsoft.Json;
-
-namespace CasaCambio.API.Controllers
-{
-    [Route("api/[controller]")]
     [ApiController]
     public class ClientesMasterController : ControllerBase
     {

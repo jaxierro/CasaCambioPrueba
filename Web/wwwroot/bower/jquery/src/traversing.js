@@ -9,17 +9,6 @@ define( [
 	"./core/init",
 	"./traversing/findFilter",
 	"./selector"
-], functiodefine( [
-	"./core",
-	"./var/indexOf",
-	"./traversing/var/dir",
-	"./traversing/var/siblings",
-	"./traversing/var/rneedsContext",
-	"./core/nodeName",
-
-	"./core/init",
-	"./traversing/findFilter",
-	"./selector"
 ], function( jQuery, indexOf, dir, siblings, rneedsContext, nodeName ) {
 
 "use strict";

@@ -11,19 +11,6 @@ Dmitri Gaskin <dmitrig01@gmail.com>
 Klaus Hartl <klaus.hartl@gmail.com>
 Stefan Petre <stefan.petre@gmail.com>
 Gilles van den Hoven <gilles@webunity.nl>
-MichAuthors ordered by first contribution
-A list of current team members is available at http://jqueryui.com/about
-
-Paul Bakaus <paul.bakaus@gmail.com>
-Richard Worth <rdworth@gmail.com>
-Yehuda Katz <wycats@gmail.com>
-Sean Catchpole <sean@sunsean.com>
-John Resig <jeresig@gmail.com>
-Tane Piper <piper.tane@gmail.com>
-Dmitri Gaskin <dmitrig01@gmail.com>
-Klaus Hartl <klaus.hartl@gmail.com>
-Stefan Petre <stefan.petre@gmail.com>
-Gilles van den Hoven <gilles@webunity.nl>
 Micheil Bryan Smith <micheil@brandedcode.com>
 Jörn Zaefferer <joern.zaefferer@gmail.com>
 Marc Grabanski <m@marcgrabanski.com>

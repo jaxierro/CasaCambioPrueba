@@ -1,4 +1,3 @@
-50f8dde2b62bceea3aca05334df18a19307a5b25
 C:\Users\Javier\source\repos\CasaCambioTest\API\bin\Debug\net5.0\CasaCambio.API.exe
 C:\Users\Javier\source\repos\CasaCambioTest\API\bin\Debug\net5.0\CasaCambio.API.dll
 C:\Users\Javier\source\repos\CasaCambioTest\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll

@@ -3,11 +3,6 @@
   "camelcase": true,
   "curly": true,
   "es3": true,
-{
-  "bitwise": true,
-  "camelcase": true,
-  "curly": true,
-  "es3": true,
   "eqnull": true,
   "freeze": true,
   "globals": {

@@ -4,12 +4,6 @@
     const versionSelect = $('#theme_version');
     const layoutSelect = $('#theme_layout');
     const sidebarStyleSelect = $('#sidebar_style');
-    const sidebarPositionSelect = $('#sidebar_pos(function($) {
-    "use strict"
-
-    const versionSelect = $('#theme_version');
-    const layoutSelect = $('#theme_layout');
-    const sidebarStyleSelect = $('#sidebar_style');
     const sidebarPositionSelect = $('#sidebar_position');
     const headerPositionSelect = $('#header_position');
     const containerLayoutSelect = $('#container_layout');

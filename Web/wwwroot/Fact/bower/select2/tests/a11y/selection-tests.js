@@ -54,62 +54,6 @@ test('static aria attributes are present', function (assert) {
   var $selection = selection.render();
 
   assert.equal(
-    $selection.module('Accessibility - All');
-
-var BaseSelection = require('select2/selection/base');
-var SingleSelection = require('select2/selection/single');
-var MultipleSelection = require('select2/selection/multiple');
-
-var $ = require('jquery');
-
-var Options = require('select2/options');
-var options = new Options({});
-
-test('title is carried over from original element', function (assert) {
-  var $select = $('#qunit-fixture .single');
-
-  var selection = new BaseSelection($select, options);
-  var $selection = selection.render();
-
-  assert.equal(
-    $selection.attr('title'),
-    $select.attr('title'),
-    'The title should have been copied over from the original element'
-  );
-});
-
-test('aria-expanded reflects the state of the container', function (assert) {
-  var $select = $('#qunit-fixture .single');
-
-  var selection = new BaseSelection($select, options);
-  var $selection = selection.render();
-
-  var container = new MockContainer();
-
-  selection.bind(container, $('<span></span>'));
-
-  assert.equal(
-    $selection.attr('aria-expanded'),
-    'false',
-    'The container should not be expanded when it is closed'
-  );
-
-  container.trigger('open');
-
-  assert.equal(
-    $selection.attr('aria-expanded'),
-    'true',
-    'The container should be expanded when it is opened'
-  );
-});
-
-test('static aria attributes are present', function (assert) {
-  var $select = $('#qunit-fixture .single');
-
-  var selection = new BaseSelection($select, options);
-  var $selection = selection.render();
-
-  assert.equal(
     $selection.attr('role'),
     'combobox',
     'The container should identify as a combobox'

@@ -7,15 +7,6 @@ define( [
 
 "use strict";
 
-// Convert String-formatted options into Object-formatted odefine( [
-	"./core",
-	"./core/toType",
-	"./var/isFunction",
-	"./var/rnothtmlwhite"
-], function( jQuery, toType, isFunction, rnothtmlwhite ) {
-
-"use strict";
-
 // Convert String-formatted options into Object-formatted ones
 function createOptions( options ) {
 	var object = {};

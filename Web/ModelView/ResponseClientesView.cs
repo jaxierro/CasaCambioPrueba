@@ -10,18 +10,6 @@ namespace CasaCambio.Web.ModelView
         public int idCliente { get; set; }
         public string documentoID { get; set; }
         public string nombres { get; set; }
-        public string apellidos { get; set;﻿using CasaCambio.Core.Models;
-using System;
-using System.Collections.Generic;
-
-namespace CasaCambio.Web.ModelView
-{
-    // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
-    public class ResultClientesView
-    {
-        public int idCliente { get; set; }
-        public string documentoID { get; set; }
-        public string nombres { get; set; }
         public string apellidos { get; set; }
         public DateTime fechaReg { get; set; }
         public DateTime fechaAct { get; set; }

@@ -22,30 +22,6 @@ test('width from style attribute', function (assert) {
 });
 
 test('width from style returns null if nothing is found', function (assert) {
-  var $test = $('<select></selctmodule('Options - Width');
-
-var $ = require('jquery');
-
-var Select2 = require('select2/core');
-var select = new Select2($('<select></select>'));
-
-test('string passed as width', function (assert) {
-  var $test = $('<select></select>');
-
-  var width = select._resolveWidth($test, '80%');
-
-  assert.equal(width, '80%');
-});
-
-test('width from style attribute', function (assert) {
-  var $test = $('<select style="width: 50%;"></selct>');
-
-  var width = select._resolveWidth($test, 'style');
-
-  assert.equal(width, '50%');
-});
-
-test('width from style returns null if nothing is found', function (assert) {
   var $test = $('<select></selct>');
 
   var width = select._resolveWidth($test, 'style');

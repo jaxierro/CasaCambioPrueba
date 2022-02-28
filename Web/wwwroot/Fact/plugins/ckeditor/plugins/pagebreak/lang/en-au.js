@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("pagebreak","el",{alt:"Αλλαγή Σελίδας",toolbar:"Εισαγωγή Τέλους Σελίδας για Εκτύπωση"});CKEDITOR.plugins.setLang("pagebreak","en-au",{alt:"Page Break",toolbar:"Insert Page Break for Printing"});
+CKEDITOR.plugins.setLang("pagebreak","en-au",{alt:"Page Break",toolbar:"Insert Page Break for Printing"});

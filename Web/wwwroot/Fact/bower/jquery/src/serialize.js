@@ -1,6 +1,3 @@
-define( [ "./selector-sizzle" ], function() {
-	"use strict";
-} );
 define( [
 	"./core",
 	"./core/toType",

@@ -35,43 +35,6 @@
     
     $('#check-minutes').click(function(e) {
         // Have to stop propagation here
-        e.(function($) {
-    "use strict"
-
-
-    // MAterial Date picker
-    $('#mdate').bootstrapMaterialDatePicker({
-        weekStart: 0,
-        time: false
-    });
-    $('#timepicker').bootstrapMaterialDatePicker({
-        format: 'HH:mm',
-        time: true,
-        date: false
-    });
-    $('#date-format').bootstrapMaterialDatePicker({
-        format: 'dddd DD MMMM YYYY - HH:mm'
-    });
-
-    $('#min-date').bootstrapMaterialDatePicker({
-        format: 'DD/MM/YYYY HH:mm',
-        minDate: new Date()
-    });
-    // Clock pickers
-    $('#single-input').clockpicker({
-        placement: 'bottom',
-        align: 'left',
-        autoclose: true,
-        'default': 'now'
-    });
-    $('.clockpicker').clockpicker({
-        donetext: 'Done',
-    }).find('input').change(function() {
-        console.log(this.value);
-    });
-    
-    $('#check-minutes').click(function(e) {
-        // Have to stop propagation here
         e.stopPropagation();
         input.clockpicker('show').clockpicker('toggleView', 'minutes');
     });

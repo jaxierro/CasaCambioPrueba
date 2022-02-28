@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("sourcedialog","da",{toolbar:"Kilde",title:"Kilde"});CKEDITOR.plugins.setLang("sourcedialog","de-ch",{toolbar:"Quellcode",title:"Quellcode"});
+CKEDITOR.plugins.setLang("sourcedialog","de-ch",{toolbar:"Quellcode",title:"Quellcode"});

@@ -4,12 +4,6 @@ module.exports = function (grunt) {
     'jquery.select2',
     'almond',
 
- module.exports = function (grunt) {
-  // Full list of files that must be included by RequireJS
-  includes = [
-    'jquery.select2',
-    'almond',
-
     'jquery-mousewheel' // shimmed for non-full builds
   ];
 

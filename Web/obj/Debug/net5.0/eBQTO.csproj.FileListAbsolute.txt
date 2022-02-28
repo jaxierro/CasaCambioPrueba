@@ -1,4 +1,3 @@
-97bae66d683f6c68413d89cee825c2ea1f247c31
 /Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/appsettings.Development.json
 /Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/appsettings.json
 /Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.StaticWebAssets.xml

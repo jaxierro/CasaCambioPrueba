@@ -13,21 +13,6 @@ function quixSettings({version, layout, navheaderBg, headerBg, sidebarStyle, sid
     this.containerLayout = containerLayout || "wide";
     this.direction = direction || "ltr";
 
-    this.manageVersion()const body = $('body');
-const html = $('html');
-
-function quixSettings({version, layout, navheaderBg, headerBg, sidebarStyle, sidebarBg, sidebarPosition, headerPosition, containerLayout, direction}) {
-    this.version = version || "light";
-    this.layout = layout || "vertical";
-    this.navheaderBg = navheaderBg || "color_1";
-    this.headerBg = headerBg || "color_1";
-    this.sidebarStyle = sidebarStyle || "full";
-    this.sidebarBg = sidebarBg || "color_1";
-    this.sidebarPosition = sidebarPosition || "static";
-    this.headerPosition = headerPosition || "static";
-    this.containerLayout = containerLayout || "wide";
-    this.direction = direction || "ltr";
-
     this.manageVersion();
     this.manageLayout();
     this.manageNavHeaderBg();

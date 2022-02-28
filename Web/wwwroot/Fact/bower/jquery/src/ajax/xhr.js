@@ -1,5 +1,4 @@
-nkr›­
-¹Zñ»!‘?ÛXİ‘Îg='a,î é“® Äñ\“v7:±–ºó±EZÏàAêÇ@define( [
+define( [
 	"../core",
 	"../var/support",
 	"../ajax"

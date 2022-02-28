@@ -2,10 +2,6 @@
 
    var path = $("#path").val();
 
-   $("#btnConfirmarOpenClose").c﻿//$(document).ready(function () {
-
-   var path = $("#path").val();
-
    $("#btnConfirmarOpenClose").click(function () {
 
         var IdCajaSelected = $('#IdCajaSelected').val();

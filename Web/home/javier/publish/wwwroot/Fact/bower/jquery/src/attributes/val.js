@@ -36,44 +36,6 @@ jQuery.fn.extend( {
 					return ret.replace( rreturn, "" );
 				}
 
-				// Handle cases where vadefine( [
-	"../core",
-	"../core/stripAndCollapse",
-	"./support",
-	"../core/nodeName",
-	"../var/isFunction",
-
-	"../core/init"
-], function( jQuery, stripAndCollapse, support, nodeName, isFunction ) {
-
-"use strict";
-
-var rreturn = /\r/g;
-
-jQuery.fn.extend( {
-	val: function( value ) {
-		var hooks, ret, valueIsFunction,
-			elem = this[ 0 ];
-
-		if ( !arguments.length ) {
-			if ( elem ) {
-				hooks = jQuery.valHooks[ elem.type ] ||
-					jQuery.valHooks[ elem.nodeName.toLowerCase() ];
-
-				if ( hooks &&
-					"get" in hooks &&
-					( ret = hooks.get( elem, "value" ) ) !== undefined
-				) {
-					return ret;
-				}
-
-				ret = elem.value;
-
-				// Handle most common string cases
-				if ( typeof ret === "string" ) {
-					return ret.replace( rreturn, "" );
-				}
-
 				// Handle cases where value is null/undef or number
 				return ret == null ? "" : ret;
 			}

@@ -47,55 +47,6 @@
     $("#btnConfirmarDelete").click(function () {
 
         var idRegSel = $("#id").val();
-        v﻿$(document).ready(function () {
-
-    var path = $("#path").val();
-
-    $("#btnNuevo").click(function () {
-
-        var NumCaja    = $("#NumCaja").val('');
-        var Descricion = $("#Descripcion").val('');
-
-        if (NumCaja == '') {
-            $.bootstrapGrowl($("#idMsjNom").val(),
-                {
-                    type: 'warning',
-                    delay: 2000,
-                });
-            return;
-        }
-
-        if (Descricion == '') {
-            $.bootstrapGrowl($("#idMsjDes").val(),
-                {
-                    type: 'warning',
-                    delay: 2000,
-                });
-            return;
-        }
-
-        $.ajax({
-            url: path + "Cajas/Nuevo",
-            dataType: "html",
-            type: "POST",
-            success: function (data) {
-                $('#bodyForm').html(data);
-                $('#FormModal').modal({ show: true, keyboard: false, backdrop: 'static' });
-            },
-            error: function (Response) {
-                $.bootstrapGrowl(Response,
-                    {
-                        type: 'danger',
-                        delay: 2000,
-                    });
-            }
-        });
-
-    });
-
-    $("#btnConfirmarDelete").click(function () {
-
-        var idRegSel = $("#id").val();
         var idMsjEje = $("#idMsjEje").val();
         var idMsjRem = $("#idMsjRem").val()
 

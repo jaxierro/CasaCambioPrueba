@@ -1,11 +1,6 @@
 define( function() {
 	"use strict";
 
-	return [ "Top", "Right", "Bottom", "Left" ];
-} );
-define( function() {
-	"use strict";
-
 	return function( elem ) {
 
 		// Support: IE <=11 only, Firefox <=30 (#15098, #14150)

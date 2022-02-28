@@ -26,34 +26,6 @@ test('single default selection returned', function (assert) {
 
   var first = items[0];
 
-  assert.eqmodule('select2(data)');
-
-var $ = require('jquery');
-var Select2 = require('select2/core');
-var Options = require('select2/options');
-
-test('single default selection returned', function (assert) {
-  var $select = $(
-    '<select>' +
-      '<option>One</option>' +
-      '<option>Two</option>' +
-      '<option value="3" selected>Three</option>' +
-    '</select>'
-  );
-  var options = new Options({});
-
-  var select = new Select2($select, options);
-
-  var items = select.data();
-
-  assert.equal(
-    items.length,
-    1,
-    'The one selected item should be returned'
-  );
-
-  var first = items[0];
-
   assert.equal(
     first.id,
     '3',

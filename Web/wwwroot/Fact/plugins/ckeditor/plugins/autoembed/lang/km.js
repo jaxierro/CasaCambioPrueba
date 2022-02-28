@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","ja",{embeddingInProgress:"貼り付けられたURLを埋め込み中...",embeddingFailed:"このURLは自動的に埋め込むことが出来ません。"});CKEDITOR.plugins.setLang("autoembed","km",{embeddingInProgress:"កំពុង​ព្យាយាម​បង្កប់ URL ដែល​បាន​បិទភ្ជាប់...",embeddingFailed:"មិន​អាច​បង្កប់ URL នេះ​ដោយ​ស្វ័យប្រវត្តិ​ទេ។"});
+CKEDITOR.plugins.setLang("autoembed","km",{embeddingInProgress:"កំពុង​ព្យាយាម​បង្កប់ URL ដែល​បាន​បិទភ្ជាប់...",embeddingFailed:"មិន​អាច​បង្កប់ URL នេះ​ដោយ​ស្វ័យប្រវត្តិ​ទេ។"});

@@ -28,36 +28,6 @@ var defaults = {
     color    : '#64bd63'
   , className: 'switchery'
   , disabled : false
-  , speed    : '0
-/**
- * Switchery 0.1.1
- * http://abpetkov.github.io/switchery/
- *
- * Authored by Alexander Petkov
- * https://github.com/abpetkov
- *
- * Copyright 2013, Alexander Petkov
- * License: The MIT License (MIT)
- * http://opensource.org/licenses/MIT
- *
- */
-
-/**
- * Expose `Switchery`.
- */
-
-module.exports = Switchery;
-
-/**
- * Set Switchery default values.
- *
- * @api public
- */
-
-var defaults = {
-    color    : '#64bd63'
-  , className: 'switchery'
-  , disabled : false
   , speed    : '0.1s'
 };
 

@@ -2,10 +2,6 @@
  Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
  For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
-(function(){var l={_attachScript:function(e,c){var d=new CKEDITOR.dom.element("script");d.setAttribute("src",e);d.on("error",c);CKEDITOR.document.getBody().append(d);return d},sendRequest:function(e,c,d,a){function b(){g&&(g.remove(),delete CKEDITOR._.jsonpCallbacks[h],g=null)}var k={/*
- Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
-*/
 (function(){var l={_attachScript:function(e,c){var d=new CKEDITOR.dom.element("script");d.setAttribute("src",e);d.on("error",c);CKEDITOR.document.getBody().append(d);return d},sendRequest:function(e,c,d,a){function b(){g&&(g.remove(),delete CKEDITOR._.jsonpCallbacks[h],g=null)}var k={};c=c||{};var h=CKEDITOR.tools.getNextNumber(),g;c.callback="CKEDITOR._.jsonpCallbacks["+h+"]";CKEDITOR._.jsonpCallbacks[h]=function(a){setTimeout(function(){b();d(a)})};g=this._attachScript(e.output(c),function(){b();
 a&&a()});k.cancel=b;return k}};CKEDITOR.plugins.add("embedbase",{lang:"ar,az,bg,ca,cs,da,de,de-ch,en,en-au,eo,es,es-mx,eu,fr,gl,hr,hu,id,it,ja,ko,ku,lv,nb,nl,oc,pl,pt,pt-br,ro,ru,sk,sq,sv,tr,ug,uk,zh,zh-cn",requires:"dialog,widget,notificationaggregator",onLoad:function(){CKEDITOR._.jsonpCallbacks={}},init:function(){CKEDITOR.dialog.add("embedBase",this.path+"dialogs/embedbase.js")}});CKEDITOR.plugins.embedBase={createWidgetBaseDefinition:function(e){var c,d=e.lang.embedbase;return{mask:!0,template:"\x3cdiv\x3e\x3c/div\x3e",
 pathName:d.pathName,_cache:{},urlRegExp:/^((https?:)?\/\/|www\.)/i,init:function(){this.on("sendRequest",function(a){this._sendRequest(a.data)},this,null,999);this.on("dialog",function(a){a.data.widget=this},this);this.on("handleResponse",function(a){if(!a.data.html){var b=this._responseToHtml(a.data.url,a.data.response);null!==b?a.data.html=b:(a.data.errorMessage="unsupportedUrl",a.cancel())}},this,null,999)},loadContent:function(a,b){function c(e){f.response=e;d.editor.widgets.instances[d.id]?d._handleResponse(f)&&

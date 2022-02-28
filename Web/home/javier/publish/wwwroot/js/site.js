@@ -33,41 +33,6 @@ function EditAddCart(id_p, id_uni, name_prod)
         dataType: "html",
         data: { "prod_id": id_p, "uni_id": id_uni, "codeGuid": codeGuid  },
         type: "GET",
-        success: func﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
-
-
-
-function OpenAddCart(id_p, id_u, name_prod)
-{
-    $.ajax({
-        url: "/EbqtoMain/OpenAddCart",
-        dataType: "html",
-        data: { "prod_id": id_p, "uni_id": id_u },
-        type: "GET",
-        success: function (data) {
-
-            $('#bodyAddCarrito').html(data);
-            $('#titleNameProd').html(name_prod);
-            $('#FormModalAddCarrito').modal({ show: true, keyboard: false, backdrop: 'static' });
-            
-        }
-    });
-    
-}
-
-function EditAddCart(id_p, id_uni, name_prod)
-{
-
-    var codeGuid = $("#codeGuid").val();
-
-    $.ajax({
-        url: "/EbqtoMain/EditAddCart",
-        dataType: "html",
-        data: { "prod_id": id_p, "uni_id": id_uni, "codeGuid": codeGuid  },
-        type: "GET",
         success: function (data) {
             $('#bodyAddCarrito').html(data);
             $('#titleNameProd').html(name_prod);

@@ -6,14 +6,6 @@
   </defs>
   <g clip-path="url(#a)" transform="scale(.94)">
     <g fill-rule="evenodd" stroke-width="1pt">
-    <svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M0 0h682.67v512H0z"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#a)" transform="scale(.94)">
-    <g fill-rule="evenodd" stroke-width="1pt">
       <path fill="#3e9a00" d="M0 0h767.975v171.886H0z"/>
       <path fill="#fff" d="M0 171.886h767.975v168.222H0z"/>
       <path fill="#e32118" d="M0 340.108h767.975v171.886H0z"/>

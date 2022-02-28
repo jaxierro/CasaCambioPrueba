@@ -11,19 +11,6 @@ function Tween( elem, options, prop, end, easing ) {
 jQuery.Tween = Tween;
 
 Tween.prototype = {
-	condefine( [
-	"../core",
-	"../css"
-], function( jQuery ) {
-
-"use strict";
-
-function Tween( elem, options, prop, end, easing ) {
-	return new Tween.prototype.init( elem, options, prop, end, easing );
-}
-jQuery.Tween = Tween;
-
-Tween.prototype = {
 	constructor: Tween,
 	init: function( elem, options, prop, end, easing, unit ) {
 		this.elem = elem;

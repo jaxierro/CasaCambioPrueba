@@ -9,17 +9,6 @@ define( [
 	// isHiddenWithinTree reports if an element has a non-"none" display style (inline and/or
 	// through the CSS cascade), which is useful in deciding whether or not to make it visible.
 	// It differs from the :hidden selector (jQuery.expr.pseudos.hidden) in two important ways:
-	// * A hidden ancestdefine( [
-	"../../core",
-	"../../selector"
-
-	// css is assumed
-], function( jQuery ) {
-	"use strict";
-
-	// isHiddenWithinTree reports if an element has a non-"none" display style (inline and/or
-	// through the CSS cascade), which is useful in deciding whether or not to make it visible.
-	// It differs from the :hidden selector (jQuery.expr.pseudos.hidden) in two important ways:
 	// * A hidden ancestor does not force an element to be classified as hidden.
 	// * Being disconnected from the document does not force an element to be classified as hidden.
 	// These differences improve the behavior of .toggle() et al. when applied to elements that are

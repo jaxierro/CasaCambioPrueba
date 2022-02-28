@@ -4,12 +4,6 @@
       <path d="M166.67-20h666.67v500H166.67z"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#a)" transform="matrix(.96 0 0 .96 -160<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path d="M166.67-20h666.67v500H166.67z"/>
-    </clipPath>
-  </defs>
   <g clip-path="url(#a)" transform="matrix(.96 0 0 .96 -160 19.2)">
     <path fill="#239e46" d="M0-20h1000v500H0z"/>
     <path d="M0-20h1000v375H0z"/>

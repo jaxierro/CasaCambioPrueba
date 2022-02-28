@@ -1,4 +1,3 @@
-14196c0e57a02c5e925d13ebb84aa394ca5f0d33
 C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.deps.json
 C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.runtimeconfig.json
 C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.runtimeconfig.dev.json

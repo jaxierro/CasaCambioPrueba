@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","ko",{embeddingInProgress:"붙여넣은 URL 첨부 시도 중...",embeddingFailed:"이 URL은 자동으로 첨부할 수 없습니다."});CKEDITOR.plugins.setLang("autoembed","ku",{embeddingInProgress:"لەهەوڵی لکاندنی بەستەری ناونیشانە...",embeddingFailed:"ئەم بەستەرە خۆکارانە ناتواندرێت بخرێتە ناوێ."});
+CKEDITOR.plugins.setLang("autoembed","ku",{embeddingInProgress:"لەهەوڵی لکاندنی بەستەری ناونیشانە...",embeddingFailed:"ئەم بەستەرە خۆکارانە ناتواندرێت بخرێتە ناوێ."});

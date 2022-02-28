@@ -10,18 +10,6 @@
             // settings
             type: 'primary', 
             offset: 20,
-            spacing:(function($) {
-    "use strict"
-
-    //primary alerts
-    $('.primary-alert-left-top').on('click', function() {
-        $.notify({
-            // options
-            message: 'Congratulations! You\'ve succcessfully completed the task.' 
-        },{
-            // settings
-            type: 'primary', 
-            offset: 20,
             spacing: 5,
             z_index: 1031,
             delay: 5000,

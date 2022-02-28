@@ -1,11 +1,4 @@
 define( [
-	"../Data"
-], function( Data ) {
-	"use strict";
-
-	return new Data();
-} );
-define( [
 	"./core",
 	"./core/access",
 	"./core/camelCase",

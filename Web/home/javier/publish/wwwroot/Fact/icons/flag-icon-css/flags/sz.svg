@@ -11,19 +11,6 @@
     <rect fill-rule="evenodd" rx="5.767" ry="5.851" height="10.971" width="621.71" stroke="#000" y="250.51" x="-51.439" stroke-width="1.474" fill="#ffd900"/>
     <g stroke="#000" transform="translate(-757.03 -25.6) scale(1.0321)">
       <path d="M-106.3 265.75l-88.583 35.433 88.583 35.433 88.582-35.433-88.582-35.433z" fill-rule="evenodd" transform="matrix(.34 0 0 .3 1256.8 136.42)" stroke-width="4.175" fill="#fff"/>
-      <rect fill-rule="evenodd" rx="4.108" ry="3.78" height="7.087" width="442.91" y="223.23" x="761.8<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-85.333 0h682.67v512h-682.67z"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#a)" transform="translate(80) scale(.9375)">
-    <path fill-rule="evenodd" fill="#3e5eb9" d="M-128 0h768v512h-768z"/>
-    <path fill-rule="evenodd" fill="#ffd900" d="M-128 91.429h768v329.14h-768z"/>
-    <path fill-rule="evenodd" fill="#b10c0c" d="M-128 128h768v256h-768z"/>
-    <rect fill-rule="evenodd" rx="5.767" ry="5.851" height="10.971" width="621.71" stroke="#000" y="250.51" x="-51.439" stroke-width="1.474" fill="#ffd900"/>
-    <g stroke="#000" transform="translate(-757.03 -25.6) scale(1.0321)">
-      <path d="M-106.3 265.75l-88.583 35.433 88.583 35.433 88.582-35.433-88.582-35.433z" fill-rule="evenodd" transform="matrix(.34 0 0 .3 1256.8 136.42)" stroke-width="4.175" fill="#fff"/>
       <rect fill-rule="evenodd" rx="4.108" ry="3.78" height="7.087" width="442.91" y="223.23" x="761.81" stroke-width="1.333" fill="#ffd900"/>
       <path d="M1224.4 279.92c-3.54 0-7.09-3.544-7.09-7.087s3.55-7.087 7.09-7.087" transform="matrix(-.50001 0 0 .5 1806.3 90.354)" stroke-width="2.667" fill="none"/>
       <path d="M1224.4 279.92c-3.54 0-7.09-3.544-7.09-7.087s3.55-7.087 7.09-7.087" transform="matrix(-.50001 0 0 .5 1802.8 90.354)" stroke-width="2.667" fill="none"/>

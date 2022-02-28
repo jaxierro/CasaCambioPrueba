@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("pagebreak","cs",{alt:"Konec stránky",toolbar:"Vložit konec stránky"});CKEDITOR.plugins.setLang("pagebreak","cy",{alt:"Toriad Tudalen",toolbar:"Mewnosod Toriad Tudalen i Argraffu"});
+CKEDITOR.plugins.setLang("pagebreak","cy",{alt:"Toriad Tudalen",toolbar:"Mewnosod Toriad Tudalen i Argraffu"});

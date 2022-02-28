@@ -1,11 +1,4 @@
-(function($) {
-    "use strict"
-
-    
-
-
-
-})(jQuery);!function (e) {
+!function (e) {
     "use strict";
     var i=new Datamap( {
         scope: "world", element: document.getElementById("world-datamap"), responsive: !0, geographyConfig: {

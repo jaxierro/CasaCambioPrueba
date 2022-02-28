@@ -1,9 +1,6 @@
 (function($) {
     "use strict"
 
-    // dragula([$('left-defaults'), $('right-defaults')(function($) {
-    "use strict"
-
     // dragula([$('left-defaults'), $('right-defaults')]);
     dragula([document.getElementById('left-defaults'), document.getElementById('right-defaults')])
 

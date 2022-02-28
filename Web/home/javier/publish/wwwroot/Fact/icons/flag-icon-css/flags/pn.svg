@@ -5,13 +5,6 @@
     </clipPath>
   </defs>
   <path fill="#00247d" d="M-15-11.25h30v22.5h-30z"/>
-  <g clip-path="url(#a)" transform="translate(0 -3.75)"><svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" viewBox="-15 -7.5 30 15">
-  <defs>
-    <clipPath id="a">
-      <path d="M-15-7.5h30v15h-30z"/>
-    </clipPath>
-  </defs>
-  <path fill="#00247d" d="M-15-11.25h30v22.5h-30z"/>
   <g clip-path="url(#a)" transform="translate(0 -3.75)">
     <circle r="20" fill="#00247d"/>
     <path stroke-width="3" stroke="#fff" d="M-20-10l40 20m-40 0l40-20"/>

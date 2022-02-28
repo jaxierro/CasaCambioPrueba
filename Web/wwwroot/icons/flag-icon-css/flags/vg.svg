@@ -9,17 +9,6 @@
     <linearGradient id="e" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -97.986 31.014)" x2="92.551" x1="103.08"/>
     <linearGradient id="f" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -94.743 31.932)" x2="92.551" x1="103.08"/>
     <linearGradient id="g" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -94.75 32.835)" x2="92.551" x1="103.08"/>
-    <linea<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="a">
-      <stop stop-color="red" offset="0"/>
-      <stop stop-color="#ff0" offset="1"/>
-    </linearGradient>
-    <linearGradient id="c" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -94.683 29.21)" x2="92.551" x1="103.08"/>
-    <linearGradient id="d" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -94.666 30.155)" x2="92.551" x1="103.08"/>
-    <linearGradient id="e" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -97.986 31.014)" x2="92.551" x1="103.08"/>
-    <linearGradient id="f" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -94.743 31.932)" x2="92.551" x1="103.08"/>
-    <linearGradient id="g" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -94.75 32.835)" x2="92.551" x1="103.08"/>
     <linearGradient id="h" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -94.767 33.751)" x2="92.551" x1="103.08"/>
     <linearGradient id="i" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -98.011 33.736)" x2="92.551" x1="103.08"/>
     <linearGradient id="j" y2="107.76" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="111.28" gradientTransform="matrix(.64274 0 0 1.4534 -97.981 32.837)" x2="92.551" x1="103.08"/>

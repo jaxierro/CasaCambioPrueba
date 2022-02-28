@@ -13,21 +13,6 @@ $(document).ready(function() {
          },
          legend: {
              show: true,
-             color:$(document).ready(function() {
-
-    // <!--basic line echarts init-->
- 
-     var chartOneDom = document.getElementById("b-line");
-     var chartOne = echarts.init(chartOneDom);
- 
-     var chartOneOption = {
-         color: ['#34C73B','#00A2FF'],
- 
-         tooltip : {
-             trigger: 'axis'
-         },
-         legend: {
-             show: true,
              color: '#fff',
              data:['Max','Min']
          },

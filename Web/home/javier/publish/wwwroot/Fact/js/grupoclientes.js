@@ -26,34 +26,6 @@
                             select: true,
                             responsive: true,
                             initComplete: function () {
-                                $(this.api().table().container()).find('input[type="search"]').parent().wrap('<form>'﻿$( document ).ready(function () {
-
-    var path = $("#path").val();
-
-    $("#btnNuevo").click(function () {
-        $("#nombre_grupos_cliente").val('');
-        $("#id_grupos_cliente").val(0);
-        $('#FormModal').modal({ show: true, keyboard: false, backdrop: 'static' });
-    });
-
-    $("#btnConfirmarDelete").click(function () {
-
-        var idRegSel = $('#id').val();
-        var idMsjEje = $("#idMsjEje").val();
-        var idMsjRem = $("#idMsjRem").val()
-
-            $.ajax({
-                url: path + "GruposClientes/Delete",
-                dataType: "html",
-                data: { "id": idRegSel },
-                type: "POST",
-                success: function (data) {
-                    $("#zonaTabla").html(data);
-                    $(function () {
-                        $('.datatable').DataTable({
-                            select: true,
-                            responsive: true,
-                            initComplete: function () {
                                 $(this.api().table().container()).find('input[type="search"]').parent().wrap('<form>').parent().attr('autocomplete', 'off').css('overflow', 'hidden').css('margin', 'auto');
                             }
                         });

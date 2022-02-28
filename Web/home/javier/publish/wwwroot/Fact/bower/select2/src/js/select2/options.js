@@ -13,21 +13,6 @@ define([
 
     this.options = Defaults.apply(this.options);
 
-    if ($element && define([
-  'require',
-  'jquery',
-  './defaults',
-  './utils'
-], function (require, $, Defaults, Utils) {
-  function Options (options, $element) {
-    this.options = options;
-
-    if ($element != null) {
-      this.fromElement($element);
-    }
-
-    this.options = Defaults.apply(this.options);
-
     if ($element && $element.is('input')) {
       var InputCompat = require(this.get('amdBase') + 'compat/inputData');
 

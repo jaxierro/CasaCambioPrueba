@@ -2,10 +2,6 @@
  Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
  For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
-(function(){fu/*
- Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
-*/
 (function(){function p(b,f,e,d,r,p,t,x){var y=b.config,u=new CKEDITOR.style(t),g=r.split(";");r=[];for(var k={},l=0;l<g.length;l++){var m=g[l];if(m){var m=m.split("/"),w={},q=g[l]=m[0];w[e]=r[l]=m[1]||q;k[q]=new CKEDITOR.style(t,w);k[q]._.definition.name=q}else g.splice(l--,1)}b.ui.addRichCombo(f,{label:d.label,title:d.panelTitle,toolbar:"styles,"+x,defaultValue:"cke-default",allowedContent:u,requiredContent:u,contentTransformations:"span"===t.element?[[{element:"font",check:"span",left:function(a){return!!a.attributes.size||
 !!a.attributes.align||!!a.attributes.face},right:function(a){var b=" x-small small medium large x-large xx-large 48px".split(" ");a.name="span";a.attributes.size&&(a.styles["font-size"]=b[a.attributes.size],delete a.attributes.size);a.attributes.align&&(a.styles["text-align"]=a.attributes.align,delete a.attributes.align);a.attributes.face&&(a.styles["font-family"]=a.attributes.face,delete a.attributes.face)}}]]:null,panel:{css:[CKEDITOR.skin.getPath("editor")].concat(y.contentsCss),multiSelect:!1,
 attributes:{"aria-label":d.panelTitle}},init:function(){var a;a="("+b.lang.common.optionDefault+")";this.startGroup(d.panelTitle);this.add(this.defaultValue,a,a);for(var c=0;c<g.length;c++)a=g[c],this.add(a,k[a].buildPreview(),a)},onClick:function(a){b.focus();b.fire("saveSnapshot");var c=this.getValue(),f=k[a],e,n,h,d,g;if(c&&a!=c)if(e=k[c],c=b.getSelection().getRanges()[0],c.collapsed){if(n=b.elementPath(),h=n.contains(function(a){return e.checkElementRemovable(a)})){d=c.checkBoundaryOfElement(h,

@@ -13,21 +13,6 @@ Paul Bakaus <paul.bakaus@gmail.com>
 Brandon Aaron <brandon.aaron@gmail.com>
 Mike Alsup <malsup@gmail.com>
 Dave Methvin <dave.methvin@gmail.com>
-Ed EAuthors ordered by first contribution.
-
-John Resig <jeresig@gmail.com>
-Gilles van den Hoven <gilles0181@gmail.com>
-Michael Geary <mike@geary.com>
-Stefan Petre <stefan.petre@gmail.com>
-Yehuda Katz <wycats@gmail.com>
-Corey Jewett <cj@syntheticplayground.com>
-Klaus Hartl <klaus.hartl@gmail.com>
-Franck Marcia <franck.marcia@gmail.com>
-Jörn Zaefferer <joern.zaefferer@gmail.com>
-Paul Bakaus <paul.bakaus@gmail.com>
-Brandon Aaron <brandon.aaron@gmail.com>
-Mike Alsup <malsup@gmail.com>
-Dave Methvin <dave.methvin@gmail.com>
 Ed Engelhardt <edengelhardt@gmail.com>
 Sean Catchpole <littlecooldude@gmail.com>
 Paul Mclanahan <pmclanahan@gmail.com>

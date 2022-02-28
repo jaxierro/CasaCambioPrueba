@@ -14,22 +14,6 @@
 
 // Interactive list items
 //
-// Use anchor or button elements instead of `li`s or `div`s to create interac// Base class
-//
-// Easily usable on <ul>, <ol>, or <div>.
-
-.list-group {
-  display: flex;
-  flex-direction: column;
-
-  // No need to set list-style: none; since .list-group-item is block level
-  padding-left: 0; // reset padding because ul and ol
-  margin-bottom: 0;
-}
-
-
-// Interactive list items
-//
 // Use anchor or button elements instead of `li`s or `div`s to create interactive
 // list items. Includes an extra `.active` modifier class for selected items.
 

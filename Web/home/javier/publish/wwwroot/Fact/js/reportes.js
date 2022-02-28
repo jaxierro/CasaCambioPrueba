@@ -46,54 +46,6 @@ function FiltrarHistorySales()
         data: params,
         type: "POST",
         success: function (data) {
-﻿function VerDetallesVentas(id)
-{
-    $.ajax({
-        url: "/Ventas/VerDetailsOrder",
-        cache: false,
-        dataType: "html",
-        data: {
-            'venta_id': id
-        },
-        type: "POST",
-        success: function (data) 
-        {
-            $("#bodyDetails").html(data);
-            $('#AsqModalDetails').modal({ show: true, keyboard: false, backdrop: 'static' });
-        }
-    });
-}
-
-function FiltrarHistorySales()
-{
-    var path = $("#path").val();
-
-    var params = {
-        'codigo_fact'         : $('#codigo_fact').val(),
-        'id_vendedor'         : $('#id_vendedor').val(),
-        'idCaja'              : $('#idCaja').val(),
-        'id_cliente'          : $('#id_cliente').val(),
-        'fechaBetweenFrom'    : $('#fechaBetweenFrom').val(),
-        'fechaBetweenTo'      : $('#fechaBetweenTo').val(),
-        'fechaEqual'          : $('#fechaBetweenFrom').val(),
-        'fechaMayor'          : $('#fechaBetweenFrom').val(),
-        'fechaMenor'          : $('#fechaBetweenFrom').val(),
-        'TotalFactBetweenFrom': $('#TotalFactBetweenFrom').val(),
-        'TotalFactBetweenTo'  : $('#TotalFactBetweenTo').val(),
-        'TotalFactEqual'      : $('#TotalFactBetweenFrom').val(),
-        'TotalFactMayor'      : $('#TotalFactBetweenFrom').val(),
-        'TotalFactMenor'      : $('#TotalFactBetweenFrom').val(),
-        'opeFecha'            : $('#opeFecha').val(),
-        'opeTotalFact'        : $('#opeTotalFact').val()
-    }
-
-    $.ajax({
-        url: path + "Reportes/FiltrarHistorySales",
-        cache: false,
-        dataType: "html",
-        data: params,
-        type: "POST",
-        success: function (data) {
             $("#tbDatos").html(data);
             var table = $('#tbDatosReportes').tableToJSON({});
             $("#hdJsonTable").val(JSON.stringify(table));

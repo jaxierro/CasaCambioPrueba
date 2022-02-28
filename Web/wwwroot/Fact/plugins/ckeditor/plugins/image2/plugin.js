@@ -2,10 +2,6 @@
  Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
  For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
-(function(){function D(a){function b(){this.deflated||(a.widgets.focused==this.widget&&(this.focused=!0),a.widgets.destroy(this.widget),this.deflated=!0)}function c(){var d=a.editable(),e=a.document;if(this.deflated)this.widget=a.widgets.initOn(this.element,"image",this.w/*
- Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
-*/
 (function(){function D(a){function b(){this.deflated||(a.widgets.focused==this.widget&&(this.focused=!0),a.widgets.destroy(this.widget),this.deflated=!0)}function c(){var d=a.editable(),e=a.document;if(this.deflated)this.widget=a.widgets.initOn(this.element,"image",this.widget.data),this.widget.inline&&!(new CKEDITOR.dom.elementPath(this.widget.wrapper,d)).block&&(d=e.createElement(a.activeEnterMode==CKEDITOR.ENTER_P?"p":"div"),d.replace(this.widget.wrapper),this.widget.wrapper.move(d)),this.focused&&
 (this.widget.focus(),delete this.focused),delete this.deflated;else{var b=this.widget,d=g,e=b.wrapper,c=b.data.align,b=b.data.hasCaption;if(d){for(var l=3;l--;)e.removeClass(d[l]);"center"==c?b&&e.addClass(d[1]):"none"!=c&&e.addClass(d[q[c]])}else"center"==c?(b?e.setStyle("text-align","center"):e.removeStyle("text-align"),e.removeStyle("float")):("none"==c?e.removeStyle("float"):e.setStyle("float",c),e.removeStyle("text-align"))}}var g=a.config.image2_alignClasses,f=a.config.image2_captionedClass;
 return{allowedContent:E(a),requiredContent:"img[src,alt]",features:F(a),styleableElements:"img figure",contentTransformations:[["img[width]: sizeToAttribute"]],editables:{caption:{selector:"figcaption",allowedContent:"br em strong sub sup u s; a[!href,target]"}},parts:{image:"img",caption:"figcaption"},dialog:"image2",template:'\x3cimg alt\x3d"" src\x3d"" /\x3e',data:function(){var d=this.features;this.data.hasCaption&&!a.filter.checkFeature(d.caption)&&(this.data.hasCaption=!1);"none"==this.data.align||

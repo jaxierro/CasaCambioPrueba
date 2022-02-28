@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("colordialog","cs",{clear:"Vyčistit",highlight:"Zvýraznit",options:"Nastavení barvy",selected:"Vybráno",title:"Výběr barvy"});CKEDITOR.plugins.setLang("colordialog","cy",{clear:"Clirio",highlight:"Uwcholeuo",options:"Opsiynau Lliw",selected:"Lliw a Ddewiswyd",title:"Dewis lliw"});
+CKEDITOR.plugins.setLang("colordialog","cy",{clear:"Clirio",highlight:"Uwcholeuo",options:"Opsiynau Lliw",selected:"Lliw a Ddewiswyd",title:"Dewis lliw"});

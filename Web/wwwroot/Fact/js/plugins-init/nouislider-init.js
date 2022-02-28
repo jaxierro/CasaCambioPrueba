@@ -26,34 +26,6 @@
     });
 
     var stepSliderValueElement = document.getElementById('slider-step-value');
-    stepSlider.noUiSlider.on('update', function(function($) {
-    "use strict"
-
-    // //basic slider
-    let basicSlide = document.getElementById('basic-slider');
-    noUiSlider.create(basicSlide, {
-        start: [20, 80],
-        connect: true,
-        range: {
-            'min': 0,
-            'max': 100
-        }
-    });
-    // //basic slider ^
-    
-
-    // //stepping and snapping the values
-    var stepSlider = document.getElementById('slider-step');
-    noUiSlider.create(stepSlider, {
-        start: [4000],
-        step: 1000,
-        range: {
-            'min': [2000],
-            'max': [10000]
-        }
-    });
-
-    var stepSliderValueElement = document.getElementById('slider-step-value');
     stepSlider.noUiSlider.on('update', function (values, handle) {
         stepSliderValueElement.innerHTML = values[handle];
     });

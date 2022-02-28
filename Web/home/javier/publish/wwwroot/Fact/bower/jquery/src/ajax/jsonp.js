@@ -1,8 +1,3 @@
-{
-	"root": true,
-
-	"extends": "../.eslintrc-browser.json"
-}
 define( [
 	"../core",
 	"../var/isFunction",

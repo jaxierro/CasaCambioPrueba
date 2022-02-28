@@ -29,37 +29,6 @@ test('test that options can be selected', function (assert) {
 
   assert.equal(
     $element.val(),
-    'test',module('Data adapters - <input> compatibility');
-
-var $ = require('jquery');
-
-var Options = require('select2/options');
-var Utils = require('select2/utils');
-
-var ArrayData = require('select2/data/array');
-var InputData = require('select2/compat/inputData');
-
-var InputAdapter = Utils.Decorate(ArrayData, InputData);
-
-test('test that options can be selected', function (assert) {
-  var options = new Options({
-    data: [
-      {
-        id: 'test',
-        text: 'Test'
-      }
-    ]
-  });
-  var $element = $('<input />');
-
-  var adapter = new InputAdapter($element, options);
-
-  adapter.select({
-    id: 'test'
-  });
-
-  assert.equal(
-    $element.val(),
     'test',
     'The id of the item should be the value'
   );

@@ -4,12 +4,6 @@ define( [
 	"../data/var/dataPriv",
 	"../data/var/acceptData",
 	"../var/hasOwn",
-	"../var/isFunction",define( [
-	"../core",
-	"../var/document",
-	"../data/var/dataPriv",
-	"../data/var/acceptData",
-	"../var/hasOwn",
 	"../var/isFunction",
 	"../var/isWindow",
 	"../event"

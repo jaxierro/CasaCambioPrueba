@@ -2,10 +2,6 @@ $(function () {
   'use strict';
 
   var console = window.console || { log: function () {} };
-  var URL = window.URL || windo$(function () {
-  'use strict';
-
-  var console = window.console || { log: function () {} };
   var URL = window.URL || window.webkitURL;
   var $image = $('#image');
   var $download = $('#download');

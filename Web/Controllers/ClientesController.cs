@@ -23,31 +23,6 @@ namespace CasaCambio.Controllers
         private readonly IHostingEnvironment _env;
         ILogger<ClientesController> logger;
 
-        private string _nameFolder = ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using CasaCambio.Core.Models;
-using Microsoft.Extensions.Configuration;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Logging;
-using CasaCambio.Helper;
-using Newtonsoft.Json;
-using System.Net.Http;
-using System.Text;
-
-namespace CasaCambio.Controllers
-{
-    public class ClientesController : Controller
-    {
-        // GET: Categorias
-        private readonly IConfiguration _configuration;
-        [Obsolete]
-        private readonly IHostingEnvironment _env;
-        ILogger<ClientesController> logger;
-
         private string _nameFolder = "../Oficina/";
 
         [Obsolete]

@@ -13,21 +13,6 @@ define( [
 	"./manipulation/buildFragment",
 	"./manipulation/support",
 
-	"./data/vardefine( [
-	"./core",
-	"./var/concat",
-	"./var/isFunction",
-	"./var/push",
-	"./core/access",
-	"./manipulation/var/rcheckableType",
-	"./manipulation/var/rtagName",
-	"./manipulation/var/rscriptType",
-	"./manipulation/wrapMap",
-	"./manipulation/getAll",
-	"./manipulation/setGlobalEval",
-	"./manipulation/buildFragment",
-	"./manipulation/support",
-
 	"./data/var/dataPriv",
 	"./data/var/dataUser",
 	"./data/var/acceptData",
