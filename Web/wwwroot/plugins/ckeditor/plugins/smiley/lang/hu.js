@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("smiley","hr",{options:"Opcije smješka",title:"Ubaci smješka",toolbar:"Smješko"});CKEDITOR.plugins.setLang("smiley","hu",{options:"Hangulatjel opciók",title:"Hangulatjel beszúrása",toolbar:"Hangulatjelek"});

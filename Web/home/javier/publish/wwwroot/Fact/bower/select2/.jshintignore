@@ -1,0 +1,10 @@
+[*]
+indent_style = space
+end_of_line = lf
+
+[*.js]
+indent_size = 2
+src/js/banner.*.js
+src/js/wrapper.*.js
+tests/vendor/*.js
+tests/helpers.js

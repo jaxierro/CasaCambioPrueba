@@ -1,0 +1,1058 @@
+97bae66d683f6c68413d89cee825c2ea1f247c31
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/appsettings.Development.json
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/appsettings.json
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.StaticWebAssets.xml
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.deps.json
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.runtimeconfig.json
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.runtimeconfig.dev.json
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/ref/eBQTO.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.Views.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.Views.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Dapper.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Dapper.Contrib.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Humanizer.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.OOXML.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.OpenXml4Net.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.OpenXmlFormats.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Rotativa.AspNetCore.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/ICSharpCode.SharpZipLib.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Data.SqlClient.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Common.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Helpers.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JRBQTO.CORE.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Youmalbum.Traducciones.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Common.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Helpers.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Youmalbum.Traducciones.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Youmalbum.Traducciones.dll.config
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JRBQTO.CORE.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/ar/Youmalbum.Traducciones.resources.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/de/Youmalbum.Traducciones.resources.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/es/Youmalbum.Traducciones.resources.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/fr/Youmalbum.Traducciones.resources.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/it/Youmalbum.Traducciones.resources.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/pt/Youmalbum.Traducciones.resources.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.csproj.AssemblyReference.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.AssemblyInfoInputs.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.AssemblyInfo.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.MvcApplicationPartsAssemblyInfo.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.MvcApplicationPartsAssemblyInfo.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorAssemblyInfo.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorAssemblyInfo.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/staticwebassets/eBQTO.StaticWebAssets.Manifest.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/staticwebassets/eBQTO.StaticWebAssets.xml
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/scopedcss/bundle/eBQTO.styles.css
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.TagHelpers.input.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.TagHelpers.output.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorCoreGenerate.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Details/DetailsView.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Details/RequestComents.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Details/_BoxComents.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Main.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Privacy.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/PurshaseCartProducts.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_AddresShipping.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_BodyCesta.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_BoxProductos.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_tableCestaCheckOut.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Ayuda/DocRegistroInventarios.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Ayuda/DocRegistroMaestros.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Ayuda/DocRegistroProductos.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/_TableZonasDetails.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/IngresoAnular.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/Ajuste.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/AjusteNew.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/DetailsAjuste.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/AddImages.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Columnas.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/ExistenciaMinima.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/ListaPrecios.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Stock.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/CuentasPorPagar.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ClientesUtilidades.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ProductosUtilidades.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ProveedorDeuda.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ReportesUtilidades.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableClientesUtilidades.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableProductosUtilidades.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableReportesUtilidades.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableSalesHistory.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Delete.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Details.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/VisorPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/BoxPublicSale.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/CerrarCajas.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/ConfirmSalesonLine.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/ConfirmSalesPublic.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/CreatePackage.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/DebitClient.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/EditCantidadItem.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/GenerarFactura.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/ListaVentasStatus.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/MovCajas.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/OpenSaleWait.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/PreciosTablas.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesAnular.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesFinishPublic.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesHistory.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesOrders.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelectNewCustomer.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelectProducts.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelUnidades.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelUnidadesPublic.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TableSalesOrderDetails.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TableSalesOrders.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TemplatesInvoices.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TemplatesInvoices1.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TemplatesTickets.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_ResultExeVentasPublic.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_TablePackages.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_TablePackagesDelivery.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_TablePackagesDeliveryDetails.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Home/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Home/Privacy.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Create.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/CreateRol.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/DetallesOpciones.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Edit.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/EditRol.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/ExecuteDataBase.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Index.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/ListRoles.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Login.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/PerfilUser.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/PermisosSistemas.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/VisorRolesPdf.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/ErrorEbqto.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_Layout1Ebqto.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutBlank.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutEbqto.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutFact.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartialEbqto.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_sideBarMenu.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorTargetAssemblyInfo.cache
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorTargetAssemblyInfo.cs
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.Views.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.csproj.CopyComplete
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/ref/eBQTO.dll
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.pdb
+/Users/imac/Documents/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.genruntimeconfig.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/nuget.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/appsettings.Development.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/appsettings.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.StaticWebAssets.xml
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.deps.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.runtimeconfig.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.runtimeconfig.dev.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/ref/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.Views.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/eBQTO.Views.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Dapper.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Dapper.Contrib.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/EntityFramework.SqlServer.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/EntityFramework.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Humanizer.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.OOXML.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.OpenXml4Net.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.OpenXmlFormats.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/NPOI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Rotativa.AspNetCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Serilog.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Serilog.Extensions.Logging.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Serilog.Extensions.Logging.File.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Serilog.Formatting.Compact.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Serilog.Sinks.Async.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Serilog.Sinks.File.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Serilog.Sinks.RollingFile.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/ICSharpCode.SharpZipLib.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Stripe.net.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.CodeDom.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Common.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Helpers.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JRBQTO.CORE.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/YouMalbum.LibraryAdd.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Youmalbum.Traducciones.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/YouMalbum.LibraryAdd.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Common.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JR.Helpers.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Youmalbum.Traducciones.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/Youmalbum.Traducciones.dll.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/JRBQTO.CORE.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/fr/Youmalbum.Traducciones.resources.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/it/Youmalbum.Traducciones.resources.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/ar/Youmalbum.Traducciones.resources.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/pt/Youmalbum.Traducciones.resources.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/de/Youmalbum.Traducciones.resources.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/es/Youmalbum.Traducciones.resources.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.csproj.AssemblyReference.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.GeneratedMSBuildEditorConfig.editorconfig
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.AssemblyInfoInputs.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.AssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.csproj.CoreCompileInputs.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.MvcApplicationPartsAssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.MvcApplicationPartsAssemblyInfo.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorAssemblyInfo.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorAssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/staticwebassets/eBQTO.StaticWebAssets.Manifest.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/staticwebassets/eBQTO.StaticWebAssets.xml
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/scopedcss/bundle/eBQTO.styles.css
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.TagHelpers.input.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.TagHelpers.output.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorCoreGenerate.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Details/DetailsView.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Details/RequestComents.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Details/_BoxComents.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Main.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/Privacy.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/PurshaseCartProducts.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_AddresShipping.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_AddressShippingMaster.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_BodyCesta.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_BoxProductos.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/EbqtoMain/_tableCestaCheckOut.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Ayuda/DocRegistroInventarios.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Ayuda/DocRegistroMaestros.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Ayuda/DocRegistroProductos.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Cajas/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ciudades/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Clientes/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CondicionesPagos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/CreateCompany.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/EditCompany.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/NewCompany.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Configuraciones/_TableZonasDetails.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/CuentasCobros/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Estados/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Familias/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Gastos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Grupos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/GruposClientes/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Impuestos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/IngresoAnular.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ingresos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/Ajuste.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/AjusteNew.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/DetailsAjuste.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Inventarios/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Lineas/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Locales/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Marcas/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/MetodosPagos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Monedas/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Pais/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Precios/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/AddImages.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Columnas.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/ExistenciaMinima.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/ListaPrecios.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/Stock.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Productos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/CuentasPorPagar.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Proveedores/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ClientesUtilidades.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ProductosUtilidades.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ProveedorDeuda.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/ReportesUtilidades.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableClientesUtilidades.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableProductosUtilidades.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableReportesUtilidades.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Reportes/TableSalesHistory.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/TiposGastos/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Delete.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Unidades/VisorPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/BoxPublicSale.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/CerrarCajas.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/ConfirmSalesonLine.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/ConfirmSalesPublic.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/CreatePackage.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/DebitClient.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/EditCantidadItem.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/GenerarFactura.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/ListaVentasStatus.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/MovCajas.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/OpenSaleWait.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/PreciosTablas.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesAnular.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesFinishPublic.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesHistory.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SalesOrders.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelectNewCustomer.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelectProducts.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelUnidades.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/SelUnidadesPublic.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TableSalesOrderDetails.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TableSalesOrders.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TemplatesInvoices.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TemplatesInvoices1.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/TemplatesTickets.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_ResultExeVentasPublic.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_TablePackages.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_TablePackagesDelivery.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Base/Ventas/_TablePackagesDeliveryDetails.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Home/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Fact/Home/Privacy.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Create.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/CreateRol.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Details.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/DetallesOpciones.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/DetallesOpcionesJrSoft.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Edit.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/EditRol.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/ExecuteDataBase.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Index.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/ListRoles.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Login.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/PerfilUser.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/PermisosSistemas.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/VisorRolesPdf.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/ErrorEbqto.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_Layout1Ebqto.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutBlank.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutEbqto.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutFact.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartialEbqto.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_sideBarMenu.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorTargetAssemblyInfo.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.RazorTargetAssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.Views.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.csproj.CopyComplete
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/ref/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/obj/Debug/net5.0/eBQTO.genruntimeconfig.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/nuget.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/web.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/Youmalbum.Traducciones.dll.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/appsettings.Development.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/appsettings.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/eBQTO.deps.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/eBQTO.runtimeconfig.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/.bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/component.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/composer.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/package.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery/.bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery/src/.eslintrc.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/.bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/component.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/composer.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/package.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/select2.jquery.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/blockUI.jquery.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/composer.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/package.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/ckeditor/plugins/emoji/emoji.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/tables/js/datatable-init/json/ajax-sourced.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/tables/js/datatable-init/json/server-side.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/countries.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/nba.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/nfl.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/nhl.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/nuget.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/web.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/Youmalbum.Traducciones.dll.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/nuget.config
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/appsettings.Development.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/appsettings.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/appsettings.Development.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/appsettings.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/eBQTO.deps.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/eBQTO.runtimeconfig.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/.bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/component.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/composer.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery-ui/package.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery/.bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/jquery/src/.eslintrc.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/.bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/component.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/composer.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/package.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/bower/select2/select2.jquery.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/blockUI.jquery.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/bower.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/composer.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/block-ui/package.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/ckeditor/plugins/emoji/emoji.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/tables/js/datatable-init/json/ajax-sourced.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/tables/js/datatable-init/json/server-side.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/countries.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/nba.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/nfl.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/home/javier/publish/wwwroot/Fact/plugins/typeahedjs/dist/nhl.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.StaticWebAssets.xml
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.deps.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.runtimeconfig.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.runtimeconfig.dev.json
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/ref/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.Views.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/eBQTO.Views.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Dapper.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Dapper.Contrib.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Humanizer.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/NPOI.OOXML.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/NPOI.OpenXml4Net.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/NPOI.OpenXmlFormats.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/NPOI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Rotativa.AspNetCore.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Serilog.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Serilog.Extensions.Logging.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Serilog.Extensions.Logging.File.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Serilog.Formatting.Compact.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Serilog.Sinks.Async.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Serilog.Sinks.File.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Serilog.Sinks.RollingFile.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/ICSharpCode.SharpZipLib.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/Stripe.net.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/System.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/JRBQTO.CORE.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/bin/Debug/net5.0/JRBQTO.CORE.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.csproj.AssemblyReference.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.GeneratedMSBuildEditorConfig.editorconfig
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.AssemblyInfoInputs.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.AssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.csproj.CoreCompileInputs.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.MvcApplicationPartsAssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.MvcApplicationPartsAssemblyInfo.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.RazorAssemblyInfo.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.RazorAssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/staticwebassets/eBQTO.StaticWebAssets.Manifest.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/staticwebassets/eBQTO.StaticWebAssets.xml
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/scopedcss/bundle/eBQTO.styles.css
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.TagHelpers.input.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.TagHelpers.output.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.RazorCoreGenerate.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Oficina/Login.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_Layout1Ebqto.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutBlank.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutEbqto.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LayoutFact.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartialEbqto.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_sideBarMenu.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.RazorTargetAssemblyInfo.cache
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.RazorTargetAssemblyInfo.cs
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.Views.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.csproj.CopyComplete
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/ref/eBQTO.dll
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.pdb
+/home/javier/Downloads/project/GitHub/jr-brqto/eBQTO (copy)/eBQTO/obj/Debug/net5.0/eBQTO.genruntimeconfig.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\ref\eBQTO.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\nuget.config
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\web.config
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\Youmalbum.Traducciones.dll.config
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\nuget.config
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\appsettings.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\appsettings.Development.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\appsettings.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\eBQTO.deps.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\eBQTO.runtimeconfig.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery-ui\.bower.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery-ui\bower.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery-ui\component.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery-ui\composer.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery-ui\package.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery\.bower.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery\bower.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\jquery\src\.eslintrc.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\select2\.bower.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\select2\bower.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\select2\component.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\select2\composer.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\select2\package.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\bower\select2\select2.jquery.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\block-ui\blockUI.jquery.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\block-ui\bower.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\block-ui\composer.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\block-ui\package.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\ckeditor\plugins\emoji\emoji.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\tables\js\datatable-init\json\ajax-sourced.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\tables\js\datatable-init\json\server-side.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\typeahedjs\dist\countries.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\typeahedjs\dist\nba.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\typeahedjs\dist\nfl.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\home\javier\publish\wwwroot\Fact\plugins\typeahedjs\dist\nhl.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.StaticWebAssets.xml
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.exe
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.deps.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.runtimeconfig.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\ref\eBQTO.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.Views.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\eBQTO.Views.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Dapper.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\NPOI.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Rotativa.AspNetCore.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Serilog.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\JRBQTO.CORE.dll
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\bin\Debug\net5.0\JRBQTO.CORE.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.AssemblyInfo.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.RazorAssemblyInfo.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.RazorAssemblyInfo.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\staticwebassets\eBQTO.StaticWebAssets.Manifest.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\staticwebassets\eBQTO.StaticWebAssets.xml
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\scopedcss\bundle\eBQTO.styles.css
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.TagHelpers.input.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.TagHelpers.output.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.RazorCoreGenerate.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Oficina\Login.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_Layout1Ebqto.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_LayoutBlank.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_LayoutEbqto.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_LayoutFact.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartialEbqto.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_sideBarMenu.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.RazorTargetAssemblyInfo.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.RazorTargetAssemblyInfo.cs
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.Views.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.genruntimeconfig.cache
+C:\Users\Javier\source\repos\CasaCambioTest\eBQTO\obj\Debug\net5.0\eBQTO.csproj.CopyComplete

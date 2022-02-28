@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("pagebreak","sq",{alt:"Thyerja e Faqes",toolbar:"Vendos Thyerje Faqeje për Shtyp"});CKEDITOR.plugins.setLang("pagebreak","sr-latn",{alt:"Page Break",toolbar:"Insert Page Break for Printing"});

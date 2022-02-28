@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("sourcedialog","sk",{toolbar:"Zdroj",title:"Zdroj"});CKEDITOR.plugins.setLang("sourcedialog","sl",{toolbar:"Izvorna koda",title:"Izvorna koda"});

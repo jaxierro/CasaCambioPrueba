@@ -1,0 +1,14 @@
+14196c0e57a02c5e925d13ebb84aa394ca5f0d33
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.deps.json
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.runtimeconfig.json
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.dll
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\bin\Debug\netcoreapp3.1\CasaCambio.Core.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.AssemblyInfo.cs
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.dll
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.pdb
+C:\Users\Javier\source\repos\CasaCambioTest\CORE\obj\Debug\netcoreapp3.1\CasaCambio.Core.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+Œ3j 9ïiÚíFÈ‰ä2u¤’µ&œôlÆÙOJ|}y…M­2X{Ãn…H¼£ü+³Ì.Lhà(Ìd—mƒ¸p49rR•&©wµ”glÛV.MºÖ	lGhÑÓ©8ö!`:3ævˆÑ–
+çUSlù®6-3”M”CKEDITOR.plugins.setLang("smiley","sv",{options:"SmileyinstÃ¤llningar",title:"Infoga smiley",toolbar:"Smiley"});

@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("sourcedialog","oc",{toolbar:"Font",title:"Font"});CKEDITOR.plugins.setLang("sourcedialog","pl",{toolbar:"Źródło dokumentu",title:"Źródło dokumentu"});

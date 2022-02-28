@@ -1,0 +1,16 @@
+a12ff1ea9d54686aa2b3a438276f16749ec0f2ff
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\TEKUS.CORE.deps.json
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\TEKUS.CORE.dll
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\ref\TEKUS.CORE.dll
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\TEKUS.CORE.pdb
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.AssemblyInfo.cs
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.dll
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\ref\TEKUS.CORE.dll
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.pdb
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\TEKUS.CORE.runtimeconfig.json
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\bin\Debug\net5.0\TEKUS.CORE.runtimeconfig.dev.json
+C:\Users\Javier\Documents\source\repos\Tekus_Test\test_tekus\TEKUS.CORE\TEKUS.CORE\obj\Debug\net5.0\TEKUS.CORE.genruntimeconfig.cache

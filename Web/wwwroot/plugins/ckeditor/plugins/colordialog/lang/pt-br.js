@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("colordialog","pl",{clear:"Wyczyść",highlight:"Zaznacz",options:"Opcje koloru",selected:"Wybrany",title:"Wybierz kolor"});CKEDITOR.plugins.setLang("colordialog","pt-br",{clear:"Limpar",highlight:"Grifar",options:"Opções de Cor",selected:"Cor Selecionada",title:"Selecione uma Cor"});

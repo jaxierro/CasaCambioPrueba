@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("pagebreak","nl",{alt:"Pagina-einde",toolbar:"Pagina-einde invoegen"});CKEDITOR.plugins.setLang("pagebreak","no",{alt:"Sideskift",toolbar:"Sett inn sideskift for utskrift"});

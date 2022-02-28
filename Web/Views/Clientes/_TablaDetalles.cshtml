@@ -1,0 +1,70 @@
+﻿﻿@model IEnumerable<CasaCambio.Web.ModelView.ResultClientesView>
+
+@{
+    Layout = null;
+}
+
+<table id="tbDetallesClientes" class=" datatable table table-bordered" width="100%" cellspacing="0">
+    <thead>
+        <tr>
+            <th>
+                Documento ID
+            </th>
+            <th>
+                Nombres
+            </th>
+            <th>
+                Apellidos
+            </th>
+            <th>
+                Fecha Reg
+            </th>
+
+            <th>
+                Fecha Act
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="tbody">
+
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.documentoID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.nombres)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.apellidos)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fechaReg)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fechaAct)
+                    </td>
+                    <td>
+                        <a class="btn btn-default" data-toggle="tooltip" data-original-title="Emails" onclick="EmailsClientes(@item.idCliente)">
+                            <i class="fa fa-address-book"></i>
+                        </a>
+
+                        <a class="btn btn-default" data-toggle="tooltip" data-original-title="Editar" onclick="Editar(@item.idCliente)">
+                            <i class="fa fa-edit"></i>
+                        </a>
+
+                        <a id="@item.idCliente" onclick="Eliminar(@item.idCliente)">
+                            <i class="fa fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+
+
+    </tbody>
+</table>

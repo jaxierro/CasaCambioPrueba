@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("sourcedialog","ja",{toolbar:"ソース",title:"ソース"});CKEDITOR.plugins.setLang("sourcedialog","ka",{toolbar:"კოდები",title:"კოდები"});

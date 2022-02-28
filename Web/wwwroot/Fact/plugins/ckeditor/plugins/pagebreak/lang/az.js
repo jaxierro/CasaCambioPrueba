@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("pagebreak","ar",{alt:"فاصل الصفحة",toolbar:"إدخال صفحة جديدة"});CKEDITOR.plugins.setLang("pagebreak","az",{alt:"Vərəq ayırıcı nişanı",toolbar:"Vərəqin çapı üçün ayırıcı nişanı qoy"});
