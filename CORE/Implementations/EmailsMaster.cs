@@ -183,7 +183,7 @@ namespace CasaCambio.Core.Implementations
             {
                 using (var context = new ApplicationDbContext())
                 {
-                    var Lst = context.Emails.Where(x => x.IdCliente == id).First();
+                    var Lst = context.Emails.FirstOrDefault(x => x.IdEmail == id);
                     return new Response<Emails>(true, result: Lst);
                 }
             }

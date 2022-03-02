@@ -16,6 +16,8 @@ function ActCorreo()
         return false;
     }
 
+    
+
     if (ope == "NUEVO") {
 
         $.ajax({
@@ -30,8 +32,6 @@ function ActCorreo()
     }
     else
     {
-        alert(email);
-        alert(id);
 
         $.ajax({
             url: "/Emails/Edit",
