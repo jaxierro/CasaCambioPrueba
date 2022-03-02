@@ -33,7 +33,7 @@ namespace CasaCambio.API.Controllers
             try
             {
                 var rs = _emailMaster.Add(model);
-                if (rs.IsSuccess) new Response<Emails> { IsSuccess = true, Message = "OK", Result = rs.Result };
+                if (rs.IsSuccess) return new Response<Emails> { IsSuccess = true, Message = "OK", Result = rs.Result };
                 else
                 {
                     _logger.LogError(rs.Message);
@@ -77,7 +77,7 @@ namespace CasaCambio.API.Controllers
             try
             {
                 var rs = _emailMaster.Remove(model);
-                if (rs.IsSuccess) new Response<Emails> { IsSuccess = true, Message = "OK", Result = rs.Result };
+                if (rs.IsSuccess) return new Response<Emails> { IsSuccess = true, Message = "OK", Result = rs.Result };
                 else
                 {
                     _logger.LogError(rs.Message);
@@ -100,7 +100,7 @@ namespace CasaCambio.API.Controllers
             try
             {
                 var rs = _emailMaster.Get(id);
-                if (rs.IsSuccess) new Response<Emails> { IsSuccess = true, Message = "OK", Result = rs.Result };
+                if (rs.IsSuccess) return new Response<Emails> { IsSuccess = true, Message = "OK", Result = rs.Result };
                 else
                 {
                     _logger.LogError(rs.Message);
